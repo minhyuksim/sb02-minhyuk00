@@ -1,4 +1,2 @@
 Hello world
-hi hello
-
-changed!! in dd
+야미
